@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xml:lang="ja" xmlns="http://www.idpf.org/2007/opf" unique-identifier="unique-id" version="3.0" prefix="ebpaj: http://www.ebpaj.jp/ rendition: http://www.idpf.org/vocab/rendition/# access: http://www.access-company.com/2012/layout#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<!--タイトル-->
+<dc:title id="title">マンガでわかる明治日本の産業革命遺産　アギャンモコギャンモ　大冒険vol.2</dc:title>
+<!--著者-->
+<dc:creator id="creator00">世界文化遺産「明治日本の産業革命遺産」保存活用事業実行委員会</dc:creator>
+<meta scheme="marc:relators" property="role" refines="#creator00">aut</meta>
+<meta property="display-seq" refines="#creator00">0</meta>
+<!--出版社-->
+<dc:publisher id="publisher">世界文化遺産「明治日本の産業革命遺産」保存活用事業実行委員会</dc:publisher>
+<!--言語-->
+<dc:language>ja</dc:language>
+<!--固有ID-->
+<dc:identifier id="unique-id">a3ff925a-f822-43ee-ac76-8aca40f26046</dc:identifier>
+<!--更新日-->
+<meta property="dcterms:modified">2023-03-29T16:07:45Z</meta>
+<!--作成ツール-->
+<meta content="relog LeME 0.44.0" name="generator"/>
+<!--レイアウト-->
+<meta property="rendition:layout">pre-paginated</meta>
+<meta content="horizontal-rl" name="primary-writing-mode"/>
+<meta property="rendition:spread">landscape</meta>
+</metadata>
+<manifest>
+<!--navigation-->
+<item media-type="application/xhtml+xml" href="navigation-documents.xhtml" id="toc" properties="nav"/>
+<!--style-->
+<item media-type="text/css" href="style/book-style-prepaginated.css" id="book-style-prepaginated"/>
+<item media-type="text/css" href="style/book-style.css" id="book-style"/>
+<item media-type="text/css" href="style/style-leme.css" id="style-leme"/>
+<item media-type="text/css" href="style/style-reset.css" id="style-reset"/>
+<item media-type="text/css" href="style/style-standard.css" id="style-standard"/>
+<!--image-->
+<item media-type="image/jpeg" href="image/image-0001.jpg" id="image-0001"/>
+<item media-type="image/jpeg" href="image/image-0002.jpg" id="image-0002"/>
+<item media-type="image/jpeg" href="image/image-0003.jpg" id="image-0003"/>
+<item media-type="image/jpeg" href="image/image-0004.jpg" id="image-0004"/>
+<item media-type="image/jpeg" href="image/image-0005.jpg" id="image-0005"/>
+<item media-type="image/jpeg" href="image/image-0006.jpg" id="image-0006"/>
+<item media-type="image/jpeg" href="image/image-0007.jpg" id="image-0007"/>
+<item media-type="image/jpeg" href="image/image-0008.jpg" id="image-0008"/>
+<item media-type="image/jpeg" href="image/image-0009.jpg" id="image-0009"/>
+<item media-type="image/jpeg" href="image/image-0010.jpg" id="image-0010"/>
+<item media-type="image/jpeg" href="image/image-0011.jpg" id="image-0011"/>
+<item media-type="image/jpeg" href="image/image-0012.jpg" id="image-0012"/>
+<item media-type="image/jpeg" href="image/image-0013.jpg" id="image-0013"/>
+<item media-type="image/jpeg" href="image/image-0014.jpg" id="image-0014"/>
+<item media-type="image/jpeg" href="image/image-0015.jpg" id="image-0015"/>
+<item media-type="image/jpeg" href="image/image-0016.jpg" id="image-0016"/>
+<item media-type="image/jpeg" href="image/image-0017.jpg" id="image-0017"/>
+<item media-type="image/jpeg" href="image/image-0018.jpg" id="image-0018"/>
+<item media-type="image/jpeg" href="image/image-0019.jpg" id="image-0019"/>
+<item media-type="image/jpeg" href="image/image-0020.jpg" id="image-0020"/>
+<item media-type="image/jpeg" href="image/image-0021.jpg" id="image-0021"/>
+<item media-type="image/jpeg" href="image/image-0022.jpg" id="image-0022"/>
+<item media-type="image/jpeg" href="image/image-0023.jpg" id="image-0023"/>
+<item media-type="image/jpeg" href="image/image-0024.jpg" id="image-0024"/>
+<item media-type="image/jpeg" href="image/image-0025.jpg" id="image-0025"/>
+<item media-type="image/jpeg" href="image/image-0026.jpg" id="image-0026"/>
+<item media-type="image/jpeg" href="image/image-0027.jpg" id="image-0027"/>
+<item media-type="image/jpeg" href="image/image-0028.jpg" id="image-0028"/>
+<item media-type="image/jpeg" href="image/image-0029.jpg" id="image-0029"/>
+<item media-type="image/jpeg" href="image/image-0030.jpg" id="image-0030"/>
+<item media-type="image/jpeg" href="image/image-0031.jpg" id="image-0031"/>
+<item media-type="image/jpeg" href="image/image-0032.jpg" id="image-0032"/>
+<item media-type="image/jpeg" href="image/image-0033.jpg" id="image-0033"/>
+<item media-type="image/jpeg" href="image/image-0034.jpg" id="image-0034"/>
+<item media-type="image/jpeg" href="image/image-0035.jpg" id="image-0035"/>
+<item media-type="image/jpeg" href="image/image-0036.jpg" id="image-0036"/>
+<item media-type="image/jpeg" href="image/image-0037.jpg" id="image-0037"/>
+<item media-type="image/jpeg" href="image/image-0038.jpg" id="image-0038"/>
+<item media-type="image/jpeg" href="image/image-0039.jpg" id="image-0039"/>
+<item media-type="image/jpeg" href="image/image-0040.jpg" id="image-0040"/>
+<!--audio-->
+<!--video-->
+<!--xhtml-->
+<item media-type="application/xhtml+xml" href="xhtml/p-0001.xhtml" properties="svg" id="p-0001"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0002.xhtml" properties="svg" id="p-0002"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0003.xhtml" properties="svg" id="p-0003"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0004.xhtml" properties="svg" id="p-0004"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0005.xhtml" properties="svg" id="p-0005"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0006.xhtml" properties="svg" id="p-0006"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0007.xhtml" properties="svg" id="p-0007"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0008.xhtml" properties="svg" id="p-0008"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0009.xhtml" properties="svg" id="p-0009"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0010.xhtml" properties="svg" id="p-0010"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0011.xhtml" properties="svg" id="p-0011"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0012.xhtml" properties="svg" id="p-0012"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0013.xhtml" properties="svg" id="p-0013"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0014.xhtml" properties="svg" id="p-0014"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0015.xhtml" properties="svg" id="p-0015"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0016.xhtml" properties="svg" id="p-0016"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0017.xhtml" properties="svg" id="p-0017"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0018.xhtml" properties="svg" id="p-0018"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0019.xhtml" properties="svg" id="p-0019"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0020.xhtml" properties="svg" id="p-0020"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0021.xhtml" properties="svg" id="p-0021"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0022.xhtml" properties="svg" id="p-0022"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0023.xhtml" properties="svg" id="p-0023"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0024.xhtml" properties="svg" id="p-0024"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0025.xhtml" properties="svg" id="p-0025"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0026.xhtml" properties="svg" id="p-0026"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0027.xhtml" properties="svg" id="p-0027"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0028.xhtml" properties="svg" id="p-0028"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0029.xhtml" properties="svg" id="p-0029"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0030.xhtml" properties="svg" id="p-0030"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0031.xhtml" properties="svg" id="p-0031"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0032.xhtml" properties="svg" id="p-0032"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0033.xhtml" properties="svg" id="p-0033"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0034.xhtml" properties="svg" id="p-0034"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0035.xhtml" properties="svg" id="p-0035"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0036.xhtml" properties="svg" id="p-0036"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0037.xhtml" properties="svg" id="p-0037"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0038.xhtml" properties="svg" id="p-0038"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0039.xhtml" properties="svg" id="p-0039"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-0040.xhtml" properties="svg" id="p-0040"/>
+</manifest>
+<spine page-progression-direction="rtl">
+<itemref linear="yes" idref="p-0001" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0002" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0003" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0004" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0005" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0006" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0007" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0008" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0009" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0010" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0011" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0012" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0013" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0014" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0015" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0016" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0017" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0018" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0019" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0020" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0021" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0022" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0023" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0024" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0025" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0026" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0027" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0028" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0029" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0030" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0031" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0032" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0033" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0034" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0035" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0036" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0037" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0038" properties="page-spread-right"/>
+<itemref linear="yes" idref="p-0039" properties="page-spread-left"/>
+<itemref linear="yes" idref="p-0040" properties="page-spread-right"/>
+</spine>
+</package>
